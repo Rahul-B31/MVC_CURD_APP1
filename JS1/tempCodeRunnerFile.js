@@ -1,0 +1,1 @@
+ let data = await res.json();
